@@ -2,6 +2,8 @@
 
 Lace up your skates and sharpen your sticks! Dive into Czech Hockey Rampage, a retro-fueled, side-scrolling beat 'em up where the ice is your battleground and the opposing team is... well, let's just say they're in for a slashing good time!
 
+## To the game! https://odraz.github.io/czech-hockey-rampage/
+
 ## The Goal?
 Guide two legendary Czech hockey heroes, Jágr and Eliáš, on an epic quest through a hostile hockey stadium. Your mission: to fight your way through relentless waves of Swedish rivals, outmaneuver a surprisingly agile referee, and finally face off against the ultimate frosty fortress – the formidable Swedish Goalie Boss!
 
